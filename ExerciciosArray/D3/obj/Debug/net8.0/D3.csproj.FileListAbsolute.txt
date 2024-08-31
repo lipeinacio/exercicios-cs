@@ -1,0 +1,15 @@
+C:\Users\felip\OneDrive\Documentos\estudos\exercicios-cs\ExerciciosArray\d3\obj\Debug\net8.0\D3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\OneDrive\Documentos\estudos\exercicios-cs\ExerciciosArray\d3\obj\Debug\net8.0\D3.AssemblyInfoInputs.cache
+C:\Users\felip\OneDrive\Documentos\estudos\exercicios-cs\ExerciciosArray\d3\obj\Debug\net8.0\D3.AssemblyInfo.cs
+C:\Users\felip\OneDrive\Documentos\estudos\exercicios-cs\ExerciciosArray\d3\obj\Debug\net8.0\D3.csproj.CoreCompileInputs.cache
+C:\Users\felip\OneDrive\Documentos\estudos\exercicios-cs\ExerciciosArray\d3\obj\Debug\net8.0\D3.sourcelink.json
+C:\Users\felip\OneDrive\Documentos\estudos\exercicios-cs\ExerciciosArray\d3\bin\Debug\net8.0\D3.exe
+C:\Users\felip\OneDrive\Documentos\estudos\exercicios-cs\ExerciciosArray\d3\bin\Debug\net8.0\D3.deps.json
+C:\Users\felip\OneDrive\Documentos\estudos\exercicios-cs\ExerciciosArray\d3\bin\Debug\net8.0\D3.runtimeconfig.json
+C:\Users\felip\OneDrive\Documentos\estudos\exercicios-cs\ExerciciosArray\d3\bin\Debug\net8.0\D3.dll
+C:\Users\felip\OneDrive\Documentos\estudos\exercicios-cs\ExerciciosArray\d3\bin\Debug\net8.0\D3.pdb
+C:\Users\felip\OneDrive\Documentos\estudos\exercicios-cs\ExerciciosArray\d3\obj\Debug\net8.0\D3.dll
+C:\Users\felip\OneDrive\Documentos\estudos\exercicios-cs\ExerciciosArray\d3\obj\Debug\net8.0\refint\D3.dll
+C:\Users\felip\OneDrive\Documentos\estudos\exercicios-cs\ExerciciosArray\d3\obj\Debug\net8.0\D3.pdb
+C:\Users\felip\OneDrive\Documentos\estudos\exercicios-cs\ExerciciosArray\d3\obj\Debug\net8.0\D3.genruntimeconfig.cache
+C:\Users\felip\OneDrive\Documentos\estudos\exercicios-cs\ExerciciosArray\d3\obj\Debug\net8.0\ref\D3.dll

@@ -8,13 +8,13 @@ Para calcular a soma e a média, você pode usar um acumulador e a contagem de e
 Para encontrar a nota mais alta e a mais baixa, você pode comparar os valores enquanto lê as notas.
 */
 
-int[] notas = new int[6];
-int soma = 0, notaMenor = int.MaxValue, notaMaior = int.MinValue;
+double[] notas = new double[6];
+double soma = 0, notaMenor = int.MaxValue, notaMaior = int.MinValue;
 
 for (int i = 0; i< notas.Length; i++)
 {
     Console.WriteLine($"Digite a nota do {i+1}° Aluno ");
-    notas[i] = int.Parse(Console.ReadLine());
+    notas[i] = double.Parse(Console.ReadLine());
     soma += notas[i];
 
     if (notas[i] > notaMaior)
